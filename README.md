@@ -1,2 +1,2 @@
 # LLMscribe
-LLM-Based Cooperative Editor developed by the team: Faye Adama, Jenkins Sean, Seeram Rajiv, Thapa Nischal, Mahbub Junaet
+LLM-Based Cooperative Editor developed by the team: Adama, Sean, Rajiv, Nischal, Junaet
